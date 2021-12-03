@@ -1,2 +1,2 @@
 ## ini cuma latihan
-- habis comit, update css
+update jam 20.59
